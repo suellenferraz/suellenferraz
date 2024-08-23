@@ -8,6 +8,9 @@ My name is Suellen Ferraz, I am 21 years old and I am a Science and Technology s
   <a href="mailto:suellen.ferraz.113@ufrn.edu.br">
     <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.hackerrank.com/profile/suhh_ferraz01">
+    <img src="https://img.shields.io/badge/Hackerrank-6A0DAD?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
