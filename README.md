@@ -1,5 +1,5 @@
-## 👩🏻‍💻 Hello, nice to meet you!
-My name is Suellen Ferraz, I am 21 years old and I am a Science and Technology student with an emphasis in Computing at the Federal University of Rio Grande do Norte (UFRN). I have been studying programming and related areas for a year, aiming to deepen my knowledge and develop skills in the technology field.
+## 👩🏻‍💻 Olá!
+Meu nome é Suellen Ferraz, tenho 21 anos e sou estudante de Ciências e Tecnologia com ênfase em Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Há um ano estudo programação e áreas afins, visando aprofundar meus conhecimentos e desenvolver habilidades na área de tecnologia.
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/suellen-ferraz-268227219/">
