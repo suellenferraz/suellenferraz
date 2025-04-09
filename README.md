@@ -46,11 +46,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=100&section=footer"/>
 
----
 
-<h2 align="center">🐍 Snake comendo meus commits!</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suellenferraz/suellenferraz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
