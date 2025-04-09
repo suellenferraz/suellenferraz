@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # executa todos os dias à meia-noite
-  workflow_dispatch:      # permite rodar manualmente pelo GitHub
+    - cron: "0 0 * * *"  # Executa todos os dias à meia-noite
+  workflow_dispatch:      # Permite rodar manualmente
 
 jobs:
   generate:
@@ -16,12 +16,12 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: suellenferraz
-          output_path: output/github-contribution-grid-snake.svg
+          output_path: "./output/github-contribution-grid-snake.svg"  # Caminho para gerar o arquivo
 
-      - name: Commit & Push SVG
+      - name: Commit & Push the generated SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "chore: generate contribution graph with snake"
-          add: "output/github-contribution-grid-snake.svg"
+          message: "chore: add snake contribution graph"
+          add: "./output/github-contribution-grid-snake.svg"  # Garante que o arquivo será adicionado
