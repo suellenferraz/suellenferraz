@@ -1,48 +1,69 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=100&section=header"/>
-
-<h1 align="center">Hi there! ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=993399&center=true&vCenter=true&width=500&lines=Olá,+tudo+bem?+✨;¡Hola!+¿Qué+tal?+✨;Hi+there!+✨" alt="Typing SVG" />
+</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=suellenferraz&color=993399&style=flat-square" alt="Profile views"/>
 </p>
 
-👋 Hi! I'm Suellen, a passionate **technology enthusiast**.  
-✨ I'm 21 years old and I love exploring new technologies, programming, and learning about the latest trends in tech.  
-🚀 Currently, I'm focusing on expanding my knowledge in **web development** and **artificial intelligence**.  
+👋 Hi! I'm Suellen, a passionate **technology enthusiast**, 
+
+Science and Technology student at the Federal University of Rio Grande do Norte (UFRN), currently studying Computer Engineering at the University of Algarve (UAlg) in Portugal. Focus on FullStack Development and Artificial Intelligence. Always looking for innovation and turning knowledge into technological solutions.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suellenferraz&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Suellen Ferraz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suellenferraz&layout=compact&hide_border=true&title_color=993399&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Suellen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suellenferraz&bg_color=00000000&color=993399&line=993399&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="left">Stacks</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="25" alt="typescript logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="next logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" alt="fastapi logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25" alt="express logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" style="display: inline-block;" />
+</div>
 
-## 💻 Tech Stack
+<h3 align="left">Tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="Photoshop logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="Figma logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" alt="Canva logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub logo" style="display: inline-block;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="25" alt="Notion logo" style="display: inline-block;" />
+</div>
 
-### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=993399) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=993399) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=993399) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=993399)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&color=993399)
 
-### 🛠️ Tools
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&color=993399) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=993399) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&color=993399) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=993399) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=993399) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&color=993399)
+<h3 align="left">Connect with me!</h3>
 
-## 📬 Contact
-<p align="left">
-  <a href="mailto:suellen.ferraz.113@ufrn.edu.br">
-    <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white&color=993399" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suellen-rayssa-barbosa-ferraz-268227219/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=993399" alt="LinkedIn"/>
-  </a>
-</p>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffdd54&color=993399)](mailto:suellen.ferraz.113@ufrn.edu.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffdd54&color=993399)](https://www.linkedin.com/in/suellen-rayssa-barbosa-ferraz/)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=100&section=footer"/>
 
