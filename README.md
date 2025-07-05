@@ -38,7 +38,7 @@ I am currently studying Science and Technology at the Federal University of Rio 
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
 </p>
 
-🔗 Find Me  
+## 🔗 Find Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/suellen-rayssa-barbosa-ferraz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
