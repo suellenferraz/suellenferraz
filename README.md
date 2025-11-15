@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Suellen Ferraz!
+# Hi, I'm Suellen Ferraz! 👋
 
-**AI Developer & Data Science Undergraduate Researcher**
+## Software Engineer & Founder [@AprendAI](https://aprendai.com.br/) | Full-Stack Developer | AI/ML
 
-Science and Technology undergraduate student at the Federal University of Rio Grande do Norte (UFRN), focusing on applying AI to solve real-world challenges.
+I am a Software Engineer focused on architecting and building end-to-end Full-Stack solutions with Artificial Intelligence at their core. My current area of study is **AI On-Device**, bringing the power of LLMs directly to the user's device.
