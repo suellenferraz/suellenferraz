@@ -1,5 +1,9 @@
-# Hi, I'm Suellen Ferraz! 👋
+<h2> Olá, Suellen aqui ;) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p>
+  <em>Engenheira de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+  Cientista de Dados Jr. na <strong>Dell Technologies / IMD</strong><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
+  </em>
+</p>
 
-## Software Engineer & Founder [@AprendAI](https://aprendai.com.br/) | Full-Stack Developer | AI/ML
-
-I am a Software Engineer focused on architecting and building end-to-end Full-Stack solutions with Artificial Intelligence at their core. My current area of study is **AI On-Device**, bringing the power of LLMs directly to the user's device.
+[![Linkedin: suellenferraz](https://img.shields.io/badge/-suellenferraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suellen-rayssa-barbosa-ferraz/)](https://www.linkedin.com/in/suellen-rayssa-barbosa-ferraz/)
+[![GitHub Suellen](https://img.shields.io/github/followers/suellenferraz?label=follow&style=social)](https://github.com/suellenferraz)
